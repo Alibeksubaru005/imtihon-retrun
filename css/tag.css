@@ -1,0 +1,12 @@
+.continer{
+    width: 1300px;
+    padding: 20px;
+    margin: 0 auto;
+    background-color: aqua;
+}
+a{
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+}
