@@ -77,6 +77,10 @@ line-height: 30px;
     transition: all 3s ease-in-out;
     line-height: 36px;
 }
+.Pricing-h2{
+    text-align: center;
+    margin-bottom: 57px;
+}
 .navigatio-a:hover{
     background-color: var(--border-color);
     color: var(--main-color);
