@@ -17,11 +17,14 @@
     padding: 20px;
     margin: 0 auto;
 }
+/* .header{
+    position: fixed;
+    background-color: aqua;
+} */
 header{
     display: flex;
     align-items: center;
     justify-content: space-between;
-   
 }
 a{
     text-decoration: none;
